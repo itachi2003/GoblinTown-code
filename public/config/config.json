@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e",
+  "SCAN_LINK": "https://etherscan.io/token/0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1337
+  },
+  "NFT_NAME": "GOBLINTOWN",
+  "SYMBOL": "GB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/goblintownwtf",
+  "SHOW_BACKGROUND": true
+}
